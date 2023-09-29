@@ -1,0 +1,16 @@
+Hello new to Go Dev's
+
+ Why Go Dev server?
+
+Go Dev'server is a simple web server written in Go. It is designed to be used as a development server for static web sites. It is not designed to be used as a production server.
+
+The server is designed to be run from the command line. It takes one argument, the directory to serve files from.
+
+Usage: go-devserver [directory]
+
+The server will listen on port 8080 by default. This can be changed by setting the PORT environment variable.
+
+The server will serve files from the directory specified on the command line. If no directory is specified, it will serve files from the current directory.
+
+
+This is some new content appended to the file.
