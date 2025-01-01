@@ -6,7 +6,13 @@ We have been passionate with creator. a few step forward to get the crazy idea!ð
 
 inspiring by [parrot.live](https://github.com/hugomd/parrot.live)
 
+
+
+#### Using python and go lang to build the live project.
+
+
 #### CLI commands
 
 For DEV (local) environment - use **go run**,
 For PROD environment - use **go install** this one better than **go build** because it installs packages and dependencies and you'll have Go toolchain.
+
